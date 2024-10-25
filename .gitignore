@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Para que no suba los datasets
+
+
 # C extensions
 *.so
 
